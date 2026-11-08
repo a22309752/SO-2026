@@ -1,0 +1,9 @@
+# Cenario para comparar FIFO e LRU
+# tempo_cpu_ms, tempo_bloqueio_ms, nice, [paginas]
+
+30,0,0,[1]
+30,0,0,[2]
+30,0,0,[3]
+30,0,0,[1]
+30,0,0,[4]
+30,0,0,[5]
