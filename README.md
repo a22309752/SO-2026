@@ -5,7 +5,7 @@
 Este projeto estende o simulador de Sistemas Operativos fornecido na unidade curricular, acrescentando quatro algoritmos de substituição de páginas. A aplicação envia sequências de acessos à memória virtual e o simulador gere as frames físicas, as faltas de página e as operações de *swap*.
 
 **Autor(es):** Guilherme Quartin Coelho a22309752, Afonso Quartau a22304676
-**Repositório GitHub:** [colocar URL]
+
 
 ## Algoritmos
 
